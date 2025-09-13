@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Tässä on title</title>
+    <h1>Tässä on title</h1>
 </head>
 
 <body>
